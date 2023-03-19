@@ -1,0 +1,23 @@
+.-primary{
+    background-color: #c5c5c5;
+}
+.–light{
+    background-color: white;
+    height: 420px;
+    width: 24%;
+    border-radius: 8px;
+    padding: 40px;
+    margin-left: 370px;
+    margin-top: 70px;
+    border-top-style: solid;
+    border-top-color: #8132a3;
+    border-top-width:12px;
+    
+}
+img{
+   
+    width: 200px;
+    height: 220px;
+    border-radius: 60%;
+    margin-left: 18%;
+}
